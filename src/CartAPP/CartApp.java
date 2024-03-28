@@ -1,13 +1,12 @@
 package CartAPP;
 
 import java.io.BufferedReader;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Main {
+public class CartApp {
 
     public static void main(String[] args) throws IOException {
 	// write your code here
